@@ -1,0 +1,6 @@
+{
+  "name": "AntarRasa",
+  "description": "Aplikasi pemesanan makanan online dan pesan-antar serba cepat dengan multi-role: Konsumen, Pemilik Toko, Driver, Admin, dan Owner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
